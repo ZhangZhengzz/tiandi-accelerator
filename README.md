@@ -9,7 +9,7 @@
 
 ---
 ### 点击右上角在浏览器打开下载
-#### :arrow_double_down: [Android 版本.APK](http://103.103.201.21:35280/down/NDd3EPV6cZKP.apk)
+#### :arrow_double_down: [Android 版本.APK](http://103.103.201.21:35280/down/29TBBRcfCEyK.apk)
 #### :arrow_double_down: [Windows 版本.RAR](http://103.103.201.21:35280/down/AznHqGNybXkE.rar)
 #### :arrow_double_down: [官方网站链接](https://www.tiandiapp.com)
 ---
